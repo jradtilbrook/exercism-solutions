@@ -1,13 +1,13 @@
 cabal-version: 1.12
 
--- This file has been generated from package.yaml by hpack version 0.31.0.
+-- This file has been generated from package.yaml by hpack version 0.31.1.
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: d38ca88f597471acabdbf20ef239cba5d26a9a41f75418ae19a28def9a8f4e63
+-- hash: 11ab755e608916ce169f5c3652883e16b6e5636d4c04ba407f1aa30d0023dc85
 
 name:           collatz-conjecture
-version:        1.2.0.2
+version:        1.2.1.3
 build-type:     Simple
 
 library
